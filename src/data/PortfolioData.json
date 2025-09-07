@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Dark Raven",
+    "description": "A majestic raven with intricate feather details, symbolizing transformation and mystery.",
+    "image": "https://i.pinimg.com/736x/d1/48/76/d14876c33eb0b1ad538d22e8eb0ce2c4.jpg",
+    "category": "Animals",
+    "style": "Realism"
+  },
+  {
+    "id": 2,
+    "title": "Gothic Rose",
+    "description": "A black rose with thorns and delicate petals, representing beauty and pain.",
+    "image": "https://www.nicepng.com/png/detail/36-362235_follow-almeidapedro-tatoo-pinterest-maori-and-maori-tribal.png",
+    "category": "Floral",
+    "style": "Blackwork"
+  },
+  {
+    "id": 3,
+    "title": "Mystic Skull",
+    "description": "An ornate skull with floral patterns, symbolizing the cycle of life and death.",
+    "image": "https://www.free-mandalas.net/wp-content/uploads/sites/14/nggallery/tattoo-ideas-with-mandalas/mandala-tatoo-idea-inspiration-3.jpg.webp",
+    "category": "Symbolism",
+    "style": "Illustrative"
+  },
+  {
+    "id": 4,
+    "title": "Serpent's Embrace",
+    "description": "A coiled serpent with intricate scales, representing rebirth and healing.",
+    "image": "https://img.kwcdn.com/product/fancy/5f740b98-f7f3-456b-94ca-8b40df7034b4.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+    "category": "Animals",
+    "style": "Neo-Traditional"
+  },
+  {
+    "id": 5,
+    "title": "Moonlit Wolf",
+    "description": "A howling wolf under a full moon, symbolizing freedom and instinct.",
+    "image": "https://thumbs.dreamstime.com/z/modern-om-tatoo-design-tattoo-black-white-abstract-105135813.jpg",
+    "category": "Animals",
+    "style": "Realism"
+  },
+  {
+    "id": 6,
+    "title": "Thorny Vine",
+    "description": "A twisting vine with thorns and leaves, representing growth and protection.",
+    "image": "https://images-cdn.ubuy.co.in/6701abd2dce4bf210e273392-niuredltd-men-arm-tattoo-temporary.jpg",
+    "category": "Botanical",
+    "style": "Fine Line"
+  }
+]

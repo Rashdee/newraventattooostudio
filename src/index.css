@@ -1,0 +1,25 @@
+/* src/index.css */
+@import "swiper/css";
+@import "swiper/css/pagination";
+@import "swiper/css/navigation";
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+/* Set Cinzel as default font */
+body {
+  font-family: 'Cinzel', serif;
+}
+
+/* For better readability on body text, you might want to use a secondary font */
+.body-text {
+  font-family: 'Cinzel', sans-serif;
+}
