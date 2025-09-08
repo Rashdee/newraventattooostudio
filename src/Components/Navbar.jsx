@@ -44,7 +44,7 @@ const Navbar = () => {
               onClick={() => setActiveItem('/')}
             >
               <img
-                src="src/assets/raven.svg"
+                src="https://cdn.shopify.com/s/files/1/0896/3670/0447/files/logo1.jpg?v=1757344626"
                 alt="Raven Studio Logo"
                 className="h-14 w-auto"
               />
